@@ -1,6 +1,15 @@
 {
     "parameters": {
-        "Ocp-Apim-Subscription-Key": "{API key}"
+        "Ocp-Apim-Subscription-Key": "{API key}",
+        "X-BingApis-SDK": "true",
+        "Accept": "application/json",
+        "Accept-language": "en-us",
+        "User-Agent": "{User Agent}",
+        "X-MSEdge-ClientID": "{Client ID}",
+        "mkt": "en-us",
+        "X-MS-EdgeClientIP": "{IP AddresS}",
+        "cc": "US",
+        "setLang": "en"
     },
     "responses": {
         "200": {
