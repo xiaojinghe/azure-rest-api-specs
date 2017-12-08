@@ -903,6 +903,11 @@
             "$ref": "#/definitions/Thing"
           }
         },
+        "datePublished": {
+          "description": "The date on which the CreativeWork was published.",
+          "readOnly": true,
+          "type": "string"
+        },
         "video": {
           "$ref": "#/definitions/VideoObject",
           "readOnly": true
